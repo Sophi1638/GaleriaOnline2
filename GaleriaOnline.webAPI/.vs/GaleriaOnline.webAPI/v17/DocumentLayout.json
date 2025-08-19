@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\44098786893\\Desktop\\GaleriaOnline2\\GaleriaOnline.webAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCA0EBB-33C1-4042-9DAA-7D744AE3E141}|GaleriaOnline.webAPI\\GaleriaOnline.webAPI.csproj|c:\\users\\44098786893\\desktop\\galeriaonline2\\galeriaonline.webapi\\galeriaonline.webapi\\dbcontextimagen\\galeriaonlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCA0EBB-33C1-4042-9DAA-7D744AE3E141}|GaleriaOnline.webAPI\\GaleriaOnline.webAPI.csproj|solutionrelative:galeriaonline.webapi\\dbcontextimagen\\galeriaonlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GaleriaOnlineDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\44098786893\\Desktop\\GaleriaOnline2\\GaleriaOnline.webAPI\\GaleriaOnline.webAPI\\DbContextImagen\\GaleriaOnlineDbContext.cs",
+              "RelativeDocumentMoniker": "GaleriaOnline.webAPI\\DbContextImagen\\GaleriaOnlineDbContext.cs",
+              "ToolTip": "C:\\Users\\44098786893\\Desktop\\GaleriaOnline2\\GaleriaOnline.webAPI\\GaleriaOnline.webAPI\\DbContextImagen\\GaleriaOnlineDbContext.cs",
+              "RelativeToolTip": "GaleriaOnline.webAPI\\DbContextImagen\\GaleriaOnlineDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:11:44.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
