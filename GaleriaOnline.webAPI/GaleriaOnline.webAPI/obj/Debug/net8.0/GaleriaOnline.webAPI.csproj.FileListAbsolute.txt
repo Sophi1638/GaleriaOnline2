@@ -166,3 +166,4 @@ C:\Users\44098786893\Desktop\GaleriaOnline2\GaleriaOnline.webAPI\GaleriaOnline.w
 C:\Users\44098786893\Desktop\GaleriaOnline2\GaleriaOnline.webAPI\GaleriaOnline.webAPI\obj\Debug\net8.0\GaleriaOnline.webAPI.pdb
 C:\Users\44098786893\Desktop\GaleriaOnline2\GaleriaOnline.webAPI\GaleriaOnline.webAPI\obj\Debug\net8.0\GaleriaOnline.webAPI.genruntimeconfig.cache
 C:\Users\44098786893\Desktop\GaleriaOnline2\GaleriaOnline.webAPI\GaleriaOnline.webAPI\obj\Debug\net8.0\ref\GaleriaOnline.webAPI.dll
+C:\Users\44098786893\Desktop\GaleriaOnline2\GaleriaOnline.webAPI\GaleriaOnline.webAPI\obj\Debug\net8.0\GaleriaOnline.webAPI.sourcelink.json
