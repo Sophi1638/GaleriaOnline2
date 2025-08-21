@@ -67,7 +67,7 @@ namespace GaleriaOnline.WebApi.Controllers
             var imagem = new Imagem
             {
                 Nome = dto.Nome,
-                Caminho = Path.Combine(pastaRelativa, nomeArquivo).Replace("\\", "")
+                Caminho = Path.Combine(pastaRelativa, nomeArquivo).Replace("\\", "/")
             };
 
             await _repository.CreateAsync(imagem);
