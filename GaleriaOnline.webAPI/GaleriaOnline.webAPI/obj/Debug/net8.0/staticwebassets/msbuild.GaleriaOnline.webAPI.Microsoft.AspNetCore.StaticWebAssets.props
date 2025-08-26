@@ -1,5 +1,21 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\imagens\08b3f410-78fc-4c7a-a4c1-c28fc734d1ed.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>GaleriaOnline.webAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GaleriaOnline.webAPI</BasePath>
+      <RelativePath>imagens/08b3f410-78fc-4c7a-a4c1-c28fc734d1ed.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\imagens\08b3f410-78fc-4c7a-a4c1-c28fc734d1ed.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\imagens\336e61b6-9d85-49a9-8ae6-3be40c1064a4.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>GaleriaOnline.webAPI</SourceId>

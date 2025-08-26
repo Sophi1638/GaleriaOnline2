@@ -46,8 +46,7 @@
               "RelativeToolTip": "GaleriaOnline.webAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-21T12:24:17.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T12:24:17.525Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "GaleriaOnline.webAPI\\DbContextImagen\\GaleriaOnlineDbContext.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T12:22:09.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T12:22:09.462Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "GaleriaOnline.webAPI\\Repository\\ImagemRepository.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T12:19:52.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T12:19:52.381Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "GaleriaOnline.webAPI\\Interface\\IImagemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T12:18:49.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T12:18:49.469Z"
             },
             {
               "$type": "Document",
@@ -98,8 +94,7 @@
               "RelativeToolTip": "GaleriaOnline.webAPI\\Controllers\\ImagemController.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAYwIMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T12:15:13.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T12:15:13.635Z"
             },
             {
               "$type": "Document",

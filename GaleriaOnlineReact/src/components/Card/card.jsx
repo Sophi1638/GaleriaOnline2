@@ -1,11 +1,10 @@
 import  "./Card.css"
-import imgCard from '../../assets/img/joui.jpg'
 
 import imgPen from '../../assets/img/pen.svg'
 import imgTrash from '../../assets/img/trash.svg'
 
 
-export const Card = ({tituloCard}) =>{
+export const Card = ({tituloCard, imgCard,funcaoEditar,funcaoExcluir}) =>{
     return(
         <>
         <div className="cardDaImagem">
@@ -13,8 +12,8 @@ export const Card = ({tituloCard}) =>{
             <img className="imgDoCard" src={imgCard} alt="Imagem relacionada ao card " />
 
             <div className="icons">
-                <img src={imgPen} alt="imagem relacionada ao card"/>
-                <img src={imgTrash} alt="imagem relacionada ao card"/>
+                <img onClick={funcaoEditar} src={imgPen} alt="imagem relacionada ao card"/>
+                <img onClick={funcaoExcluir} src={imgTrash} alt="imagem relacionada ao card"/>
             </div>
         </div>
         </>
